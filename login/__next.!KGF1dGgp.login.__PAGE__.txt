@@ -1,0 +1,32 @@
+3:"$Sreact.fragment"
+4:"/mawahib-academy/_next/static/chunks/0umf92h1sb77c.js"
+5:I[39756,["$4"],"default"]
+6:I[37457,["$4"],"default"]
+b:"/mawahib-academy/_next/static/chunks/0-j8f9n8n69vg.js"
+c:"/mawahib-academy/_next/static/chunks/1vvixgf49ejp0.js"
+d:I[22016,["$4","$b","$c"],""]
+e:I[5500,["$4","$b","$c"],"Image"]
+f:I[5014,["$4","$b","$c"],"default"]
+10:I[18294,["$4","$b","$c"],"default"]
+11:I[97367,["$4"],"OutletBoundary"]
+12:"$Sreact.suspense"
+15:"ViewportBoundary"
+16:I[97367,["$4"],"$15"]
+17:"MetadataBoundary"
+18:I[97367,["$4"],"$17"]
+19:I[27201,["$4"],"IconMark"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","main",null,{"className":"grid min-h-svh lg:grid-cols-2","children":[["$","div",null,{"className":"flex flex-col px-5 py-8 md:px-12 lg:px-16","children":[["$","div",null,{"className":"flex items-center justify-between","children":[["$","$Ld",null,{"href":"/","className":"flex items-center gap-3","children":[["$","$Le",null,{"src":"/brand/logo-192.webp","alt":"","width":44,"height":44,"className":"size-11 rounded-full"}],["$","span",null,{"className":"font-display font-bold","children":"مواهب الأحساء"}]]}],["$","$Ld",null,{"href":"/","className":"flex items-center gap-1.5 text-sm font-semibold text-petrol/70 hover:text-petrol","children":[["$","$Lf",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-4","aria-hidden":"true"}],"الموقع"]}]]}],["$","div",null,{"className":"mx-auto flex w-full max-w-[440px] flex-1 flex-col justify-center py-14","children":[["$","h1",null,{"className":"t-h1","children":"مرحبًا بعودتك"}],["$","p",null,{"className":"mt-3 text-petrol/70","children":"ادخل إلى بوابة الأكاديمية لمتابعة اللاعب وجدوله وتقاريره."}],["$","div",null,{"className":"mt-10","children":["$","$L10",null,{}]}]]}],["$","p",null,{"className":"text-center text-sm text-petrol/45","children":["© ",2026," أكاديمية مواهب الأحساء"]}]]}],["$","div",null,{"className":"relative hidden overflow-hidden bg-ink text-white lg:block","children":[["$","div",null,{"className":"duo absolute! inset-0 opacity-60","children":["$","$Le",null,{"src":"/images/g-gk-catch.jpg","alt":"","fill":true,"priority":false,"sizes":"50vw","className":"object-cover","style":{"objectPosition":"40% 50%"}}]}],["$","div",null,{"aria-hidden":"true","className":"absolute inset-0 bg-gradient-to-t from-ink via-ink/70 to-ink/30"}],["$","svg",null,{"viewBox":"0 0 600 600","aria-hidden":"true","className":"pointer-events-none absolute -right-40 -top-40 size-[640px] text-teal/30","children":[["$","line",null,{"x1":"300","y1":"0","x2":"300","y2":"600","className":"pitch-line","strokeWidth":"1.5"}],["$","circle",null,{"cx":"300","cy":"300","r":"170","className":"pitch-line","strokeWidth":"1.5"}],["$","circle",null,{"cx":"300","cy":"300","r":"5","fill":"currentColor"}]]}],["$","div",null,{"className":"relative flex h-full flex-col justify-end p-14","children":[["$","p",null,{"className":"max-w-[18ch] font-display text-4xl font-bold leading-[1.35]","children":"بوابة واحدة لكل من يرافق اللاعب"}],["$","ul",null,{"className":"mt-10 grid grid-cols-2 gap-px overflow-hidden rounded-[4px] bg-white/10","children":[["$","li","ولي الأمر",{"className":"bg-ink/80 p-5 backdrop-blur-sm","children":[["$","p",null,{"className":"font-display font-bold text-teal","children":"ولي الأمر"}],["$","p",null,{"className":"mt-1 text-sm leading-6 text-white/70","children":"الحضور وتقارير الأداء والمدفوعات"}]]}],["$","li","اللاعب",{"className":"bg-ink/80 p-5 backdrop-blur-sm","children":[["$","p",null,{"className":"font-display font-bold text-teal","children":"اللاعب"}],["$","p",null,{"className":"mt-1 text-sm leading-6 text-white/70","children":"الجدول وتقييمه ونجوم الأسبوع"}]]}],["$","li","المدرب",{"className":"bg-ink/80 p-5 backdrop-blur-sm","children":[["$","p",null,{"className":"font-display font-bold text-teal","children":"المدرب"}],["$","p",null,{"className":"mt-1 text-sm leading-6 text-white/70","children":"تحضير الحصص وتقييم اللاعبين"}]]}],["$","li","الإدارة",{"className":"bg-ink/80 p-5 backdrop-blur-sm","children":[["$","p",null,{"className":"font-display font-bold text-teal","children":"الإدارة"}],["$","p",null,{"className":"mt-1 text-sm leading-6 text-white/70","children":"التسجيل والاشتراكات والإشراف"}]]}]]}]]}]]}]]}],[["$","script","script-0",{"src":"/mawahib-academy/_next/static/chunks/0-j8f9n8n69vg.js","async":true}],["$","script","script-1",{"src":"/mawahib-academy/_next/static/chunks/1vvixgf49ejp0.js","async":true}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":"$@14","v":null,"s":"$9"}}]]
+2:[["children",{"s":"login","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+1:[["children",{"s":"(auth)","c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#062830"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"تسجيل الدخول | أكاديمية مواهب الأحساء"}],["$","meta","1",{"name":"description","content":"أكاديمية كرة قدم في الأحساء للأعمار من 6 إلى 16 سنة. مدربون معتمدون من الاتحاد السعودي، وتعليم مساند، ومسار واضح من أول تمرين حتى الأندية."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/mawahib-academy/icon.png?icon.13l_n80briprc.png","sizes":"512x512","type":"image/png"}],["$","link","4",{"rel":"apple-touch-icon","href":"/mawahib-academy/apple-icon.png?apple-icon.39qwz0ejvq_tz.png","sizes":"180x180","type":"image/png"}],["$","$L19","5",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1a","v":null,"s":"$9"}},"a":"$@1b","u":"$@1c","b":"CF-kXC9CcKOXSv0pcpk8_"}
+13:null
+1c:true
+9:300
+9:C
+1b:0
+7:"$undefined"
+1a:"$undefined"
+14:"$undefined"

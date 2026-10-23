@@ -1,0 +1,31 @@
+3:"$Sreact.fragment"
+4:"/mawahib-academy/_next/static/chunks/0umf92h1sb77c.js"
+5:I[39756,["$4"],"default"]
+6:I[37457,["$4"],"default"]
+b:"/mawahib-academy/_next/static/chunks/1_q3rklfm3r6f.js"
+c:"/mawahib-academy/_next/static/chunks/1vvixgf49ejp0.js"
+d:"/mawahib-academy/_next/static/chunks/224e3fj9_49kv.js"
+e:I[22016,["$4","$b","$c","$d"],""]
+f:I[83511,["$4","$b","$c","$d"],"default"]
+10:I[97367,["$4"],"OutletBoundary"]
+11:"$Sreact.suspense"
+14:"ViewportBoundary"
+15:I[97367,["$4"],"$14"]
+16:"MetadataBoundary"
+17:I[97367,["$4"],"$16"]
+18:I[27201,["$4"],"IconMark"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[[["$","section",null,{"className":"relative overflow-hidden bg-ink text-white","children":[["$","svg",null,{"viewBox":"0 0 600 600","aria-hidden":"true","className":"pointer-events-none absolute -left-40 top-1/2 size-[560px] -translate-y-1/2 text-teal/20 md:-left-24","children":[["$","line",null,{"x1":"300","y1":"0","x2":"300","y2":"600","className":"pitch-line","strokeWidth":"1.5"}],["$","circle",null,{"cx":"300","cy":"300","r":"170","className":"pitch-line","strokeWidth":"1.5"}],["$","circle",null,{"cx":"300","cy":"300","r":"5","fill":"currentColor"}]]}],["$","div",null,{"className":"wrap relative grid gap-10 pb-14 pt-32 md:pb-20 md:pt-40 lg:grid-cols-12 lg:items-end","children":[["$","div",null,{"className":"lg:col-span-9","children":[["$","nav",null,{"aria-label":"مسار التصفح","className":"mb-6 text-sm text-white/60","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-2","children":[["$","li",null,{"children":["$","$Le",null,{"href":"/","className":"hover:text-teal","children":"الرئيسية"}]}],[["$","li","طلب تسجيل",{"className":"flex items-center gap-2","children":[["$","span",null,{"aria-hidden":"true","className":"text-white/30","children":"/"}],["$","span",null,{"aria-current":"page","className":"text-white/90","children":"طلب تسجيل"}]]}]]]}]}],["$","h1",null,{"className":"t-h1","children":"سجّل ابنك في أكاديمية مواهب"}],["$","p",null,{"className":"t-lead mt-5 max-w-[46ch] text-white/75","children":"أربع خطوات قصيرة. بعد الإرسال نتواصل معك لتحديد موعد تجربة الأداء."}],"$undefined"]}],"$undefined"]}]]}],["$","section",null,{"className":"sec","children":["$","div",null,{"className":"wrap","children":["$","$Lf",null,{}]}]}],["$","section",null,{"className":"bg-white py-16 md:py-20","children":["$","div",null,{"className":"wrap","children":[["$","h2",null,{"className":"t-h2","children":"ماذا يحدث بعد الإرسال"}],["$","ol",null,{"className":"mt-10 grid gap-8 md:grid-cols-4","children":[["$","li","نراجع الطلب",{"className":"border-t border-petrol/15 pt-5","children":[["$","span",null,{"className":"num text-sm font-bold text-teal-dark","children":1}],["$","p",null,{"className":"mt-1 font-display text-lg font-bold","children":"نراجع الطلب"}],["$","p",null,{"className":"mt-1.5 text-petrol/70","children":"يراجع المشرف بيانات اللاعب ويحدد الفئة المناسبة."}]]}],["$","li","نتواصل معك",{"className":"border-t border-petrol/15 pt-5","children":[["$","span",null,{"className":"num text-sm font-bold text-teal-dark","children":2}],["$","p",null,{"className":"mt-1 font-display text-lg font-bold","children":"نتواصل معك"}],["$","p",null,{"className":"mt-1.5 text-petrol/70","children":"اتصال أو رسالة واتساب لتأكيد موعد تجربة الأداء."}]]}],["$","li","تجربة الأداء",{"className":"border-t border-petrol/15 pt-5","children":[["$","span",null,{"className":"num text-sm font-bold text-teal-dark","children":3}],["$","p",null,{"className":"mt-1 font-display text-lg font-bold","children":"تجربة الأداء"}],["$","p",null,{"className":"mt-1.5 text-petrol/70","children":"حصة تقييم في الملعب، يحضرها ولي الأمر إن رغب."}]]}],["$","li","بدء التدريب",{"className":"border-t border-petrol/15 pt-5","children":[["$","span",null,{"className":"num text-sm font-bold text-teal-dark","children":4}],["$","p",null,{"className":"mt-1 font-display text-lg font-bold","children":"بدء التدريب"}],["$","p",null,{"className":"mt-1.5 text-petrol/70","children":"بعد القبول يصلك الجدول وموقع الملعب وتفاصيل الاشتراك."}]]}]]}]]}]}]],[["$","script","script-0",{"src":"/mawahib-academy/_next/static/chunks/224e3fj9_49kv.js","async":true}]],["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":"$@13","v":null,"s":"$9"}}]]
+2:[["children",{"s":"register","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+1:[["children",{"s":"(site)","c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#062830"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"طلب تسجيل وتجربة أداء | أكاديمية مواهب الأحساء"}],["$","meta","1",{"name":"description","content":"أكاديمية كرة قدم في الأحساء للأعمار من 6 إلى 16 سنة. مدربون معتمدون من الاتحاد السعودي، وتعليم مساند، ومسار واضح من أول تمرين حتى الأندية."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/mawahib-academy/icon.png?icon.13l_n80briprc.png","sizes":"512x512","type":"image/png"}],["$","link","4",{"rel":"apple-touch-icon","href":"/mawahib-academy/apple-icon.png?apple-icon.39qwz0ejvq_tz.png","sizes":"180x180","type":"image/png"}],["$","$L18","5",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@19","v":null,"s":"$9"}},"a":"$@1a","u":"$@1b","b":"CF-kXC9CcKOXSv0pcpk8_"}
+12:null
+1b:true
+9:300
+9:C
+1a:0
+7:"$undefined"
+19:"$undefined"
+13:"$undefined"
